@@ -4,6 +4,7 @@
 - 📫 How to reach me: Email: nguyenphuckhangbeta@outlook.com.vn
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I started coding Scratch at 9. Not a really fun fact but yeah.
+- 🖥Favorite Operating system: Windows and Linux
 
 <!---
 KhangDeveloperd/KhangDeveloperd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
